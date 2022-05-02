@@ -1,5 +1,5 @@
 # Investigate Fire Spread by Bird-Eye View
-Tai-Yu Pan
+by **Tai-Yu Pan**
 
 Note: The architecture is forked from the officail implementation of [U-Net](https://github.com/milesial/Pytorch-UNet). The code for this project can be found in VLS.py focal_loss.py and train_contest.py, which inlcludes data loader for VLS dataset, data augmentations, evaluation metrics, and the training pipleline. 
 
